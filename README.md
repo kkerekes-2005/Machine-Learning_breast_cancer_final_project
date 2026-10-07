@@ -10,7 +10,6 @@ Analysis of the Wisconsin Breast Cancer (Diagnostic) dataset from two angles: un
 |---|---|
 | `Final_project.ipynb` | Full analysis notebook (EDA, preprocessing, unsupervised, supervised, connection analysis) |
 | `final_report_kinga_kerekes.pdf` | Written project report |
-| `requirements.txt` | Python dependencies |
 
 ## Dataset
 
